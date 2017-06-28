@@ -2,15 +2,119 @@
 ROUND 1
 --------------------
 API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 2
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕0⊕0 = 0
+Round lose.
+
+--------------------
+ROUND 3
+--------------------
+API authentication success.
 Referee: 000
 r: 0, s: 0, t: 0
 Waiting for results...
 Waiting for results...
 Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
@@ -25,12 +129,255 @@ a⊕b⊕c = 0⊕1⊕1 = 0
 Round win.
 
 --------------------
-ROUND 2
+ROUND 4
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round lose.
+
+--------------------
+ROUND 5
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 6
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 7
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 8
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 9
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 10
 --------------------
 API authentication success.
 Referee: 110
 r: 1, s: 1, t: 0
 Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 11
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 12
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 13
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕1⊕1 = 0
+Round lose.
+
+--------------------
+ROUND 14
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕1⊕1 = 0
+Round lose.
+
+--------------------
+ROUND 15
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
 Waiting for results...
 Waiting for results...
 Waiting for results...
@@ -44,61 +391,12 @@ Probability | 1.000 |
 Alice: 1
 Bob: 1
 Charlie: 1
-r∨s∨t = 1∨1∨0 = 1
+r∨s∨t = 1∨0∨1 = 1
 a⊕b⊕c = 1⊕1⊕1 = 1
 Round win.
 
 --------------------
-ROUND 3
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00101 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 0
-Charlie: 1
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 1⊕0⊕1 = 0
-Round win.
-
---------------------
-ROUND 4
---------------------
-API authentication success.
-Referee: 101
-r: 1, s: 0, t: 1
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
----------------------
-RESULTS: 
----------------------
-State       | 00011 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 1
-Charlie: 0
-r∨s∨t = 1∨0∨1 = 1
-a⊕b⊕c = 1⊕1⊕0 = 0
-Round lose.
-
---------------------
-ROUND 5
+ROUND 16
 --------------------
 API authentication success.
 Referee: 011
@@ -107,231 +405,6 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00001 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 0
-Charlie: 0
-r∨s∨t = 0∨1∨1 = 1
-a⊕b⊕c = 1⊕0⊕0 = 1
-Round win.
-
---------------------
-ROUND 6
---------------------
-API authentication success.
-Referee: 110
-r: 1, s: 1, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00001 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 0
-Charlie: 0
-r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 1⊕0⊕0 = 1
-Round win.
-
---------------------
-ROUND 7
---------------------
-API authentication success.
-Referee: 101
-r: 1, s: 0, t: 1
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00011 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 1
-Charlie: 0
-r∨s∨t = 1∨0∨1 = 1
-a⊕b⊕c = 1⊕1⊕0 = 0
-Round lose.
-
---------------------
-ROUND 8
---------------------
-API authentication success.
-Referee: 110
-r: 1, s: 1, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00010 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 1
-Charlie: 0
-r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 0⊕1⊕0 = 1
-Round win.
-
---------------------
-ROUND 9
---------------------
-API authentication success.
-Referee: 011
-r: 0, s: 1, t: 1
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00010 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 1
-Charlie: 0
-r∨s∨t = 0∨1∨1 = 1
-a⊕b⊕c = 0⊕1⊕0 = 1
-Round win.
-
---------------------
-ROUND 10
---------------------
-API authentication success.
-Referee: 011
-r: 0, s: 1, t: 1
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00100 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 0
-Charlie: 1
-r∨s∨t = 0∨1∨1 = 1
-a⊕b⊕c = 0⊕0⊕1 = 1
-Round win.
-
---------------------
-ROUND 11
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00000 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 0
-Charlie: 0
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 0⊕0⊕0 = 0
-Round win.
-
---------------------
-ROUND 12
---------------------
-API authentication success.
-Referee: 011
-r: 0, s: 1, t: 1
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00100 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 0
-Charlie: 1
-r∨s∨t = 0∨1∨1 = 1
-a⊕b⊕c = 0⊕0⊕1 = 1
-Round win.
-
---------------------
-ROUND 13
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00001 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 0
-Charlie: 0
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 1⊕0⊕0 = 1
-Round lose.
-
---------------------
-ROUND 14
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
@@ -341,58 +414,9 @@ Probability | 1.000 |
 Alice: 0
 Bob: 1
 Charlie: 1
-r∨s∨t = 0∨0∨0 = 0
+r∨s∨t = 0∨1∨1 = 1
 a⊕b⊕c = 0⊕1⊕1 = 0
-Round win.
-
---------------------
-ROUND 15
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00000 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 0
-Charlie: 0
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 0⊕0⊕0 = 0
-Round win.
-
---------------------
-ROUND 16
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00000 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 0
-Charlie: 0
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 0⊕0⊕0 = 0
-Round win.
+Round lose.
 
 --------------------
 ROUND 17
@@ -404,7 +428,6 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
@@ -422,26 +445,24 @@ Round win.
 ROUND 18
 --------------------
 API authentication success.
-Referee: 110
-r: 1, s: 1, t: 0
+Referee: 101
+r: 1, s: 0, t: 1
 Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00110 | 
+State       | 00111 | 
 Probability | 1.000 | 
 
-Alice: 0
+Alice: 1
 Bob: 1
 Charlie: 1
-r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 0⊕1⊕1 = 0
-Round lose.
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
 
 --------------------
 ROUND 19
@@ -454,74 +475,21 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00110 | 
+State       | 00000 | 
 Probability | 1.000 | 
 
 Alice: 0
-Bob: 1
-Charlie: 1
+Bob: 0
+Charlie: 0
 r∨s∨t = 0∨1∨1 = 1
-a⊕b⊕c = 0⊕1⊕1 = 0
+a⊕b⊕c = 0⊕0⊕0 = 0
 Round lose.
 
 --------------------
 ROUND 20
---------------------
-API authentication success.
-Referee: 101
-r: 1, s: 0, t: 1
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00001 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 0
-Charlie: 0
-r∨s∨t = 1∨0∨1 = 1
-a⊕b⊕c = 1⊕0⊕0 = 1
-Round win.
-
---------------------
-ROUND 21
---------------------
-API authentication success.
-Referee: 101
-r: 1, s: 0, t: 1
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00110 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 1
-Charlie: 1
-r∨s∨t = 1∨0∨1 = 1
-a⊕b⊕c = 0⊕1⊕1 = 0
-Round lose.
-
---------------------
-ROUND 22
 --------------------
 API authentication success.
 Referee: 000
@@ -529,43 +497,89 @@ r: 0, s: 0, t: 0
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
+Waiting for results...
+Waiting for results...
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00110 | 
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 21
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 0⊕0⊕0 = 0
+Round win.
+
+--------------------
+ROUND 22
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
 Probability | 1.000 | 
 
 Alice: 0
 Bob: 1
-Charlie: 1
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 0⊕1⊕1 = 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
 Round win.
 
 --------------------
 ROUND 23
 --------------------
 API authentication success.
-Referee: 101
-r: 1, s: 0, t: 1
+Referee: 011
+r: 0, s: 1, t: 1
 Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00001 | 
+State       | 00000 | 
 Probability | 1.000 | 
 
-Alice: 1
+Alice: 0
 Bob: 0
 Charlie: 0
-r∨s∨t = 1∨0∨1 = 1
-a⊕b⊕c = 1⊕0⊕0 = 1
-Round win.
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕0⊕0 = 0
+Round lose.
 
 --------------------
 ROUND 24
@@ -577,18 +591,18 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
+Waiting for results...
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00010 | 
+State       | 00001 | 
 Probability | 1.000 | 
 
-Alice: 0
-Bob: 1
+Alice: 1
+Bob: 0
 Charlie: 0
 r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 0⊕1⊕0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
 Round win.
 
 --------------------
@@ -601,8 +615,6 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
@@ -620,72 +632,71 @@ Round win.
 ROUND 26
 --------------------
 API authentication success.
-Referee: 110
-r: 1, s: 1, t: 0
+Referee: 011
+r: 0, s: 1, t: 1
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
+Waiting for results...
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00111 | 
+State       | 00011 | 
 Probability | 1.000 | 
 
 Alice: 1
 Bob: 1
-Charlie: 1
-r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 1⊕1⊕1 = 1
-Round win.
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round lose.
 
 --------------------
 ROUND 27
 --------------------
 API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
+Referee: 011
+r: 0, s: 1, t: 1
 Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00111 | 
+State       | 00010 | 
 Probability | 1.000 | 
 
-Alice: 1
+Alice: 0
 Bob: 1
-Charlie: 1
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 1⊕1⊕1 = 1
-Round lose.
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
 
 --------------------
 ROUND 28
 --------------------
 API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
+Referee: 110
+r: 1, s: 1, t: 0
 Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
+Waiting for results...
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00000 | 
+State       | 00001 | 
 Probability | 1.000 | 
 
-Alice: 0
+Alice: 1
 Bob: 0
 Charlie: 0
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 0⊕0⊕0 = 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
 Round win.
 
 --------------------
@@ -699,136 +710,6 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00110 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 1
-Charlie: 1
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 0⊕1⊕1 = 0
-Round win.
-
---------------------
-ROUND 30
---------------------
-API authentication success.
-Referee: 101
-r: 1, s: 0, t: 1
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00001 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 0
-Charlie: 0
-r∨s∨t = 1∨0∨1 = 1
-a⊕b⊕c = 1⊕0⊕0 = 1
-Round win.
-
---------------------
-ROUND 31
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00111 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 1
-Charlie: 1
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 1⊕1⊕1 = 1
-Round lose.
-
---------------------
-ROUND 32
---------------------
-API authentication success.
-Referee: 110
-r: 1, s: 1, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00010 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 1
-Charlie: 0
-r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 0⊕1⊕0 = 1
-Round win.
-
---------------------
-ROUND 33
---------------------
-API authentication success.
-Referee: 110
-r: 1, s: 1, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00010 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 1
-Charlie: 0
-r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 0⊕1⊕0 = 1
-Round win.
-
---------------------
-ROUND 34
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
@@ -843,7 +724,30 @@ a⊕b⊕c = 1⊕1⊕0 = 0
 Round win.
 
 --------------------
-ROUND 35
+ROUND 30
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 31
 --------------------
 API authentication success.
 Referee: 110
@@ -852,22 +756,90 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00010 | 
+State       | 00111 | 
 Probability | 1.000 | 
 
-Alice: 0
+Alice: 1
 Bob: 1
-Charlie: 0
+Charlie: 1
 r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 0⊕1⊕0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
 Round win.
 
 --------------------
-ROUND 36
+ROUND 32
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 33
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 34
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 35
 --------------------
 API authentication success.
 Referee: 011
@@ -877,7 +849,6 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
@@ -892,7 +863,7 @@ a⊕b⊕c = 1⊕0⊕0 = 1
 Round win.
 
 --------------------
-ROUND 37
+ROUND 36
 --------------------
 API authentication success.
 Referee: 110
@@ -901,43 +872,63 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00000 | 
+State       | 00001 | 
 Probability | 1.000 | 
 
-Alice: 0
+Alice: 1
 Bob: 0
 Charlie: 0
 r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 0⊕0⊕0 = 0
-Round lose.
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 37
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
 
 --------------------
 ROUND 38
 --------------------
 API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
+Referee: 011
+r: 0, s: 1, t: 1
 Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00000 | 
+State       | 00010 | 
 Probability | 1.000 | 
 
 Alice: 0
-Bob: 0
+Bob: 1
 Charlie: 0
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 0⊕0⊕0 = 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
 Round win.
 
 --------------------
@@ -950,81 +941,7 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00010 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 1
-Charlie: 0
-r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 0⊕1⊕0 = 1
-Round win.
-
---------------------
-ROUND 40
---------------------
-API authentication success.
-Referee: 110
-r: 1, s: 1, t: 0
 Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00111 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 1
-Charlie: 1
-r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 1⊕1⊕1 = 1
-Round win.
-
---------------------
-ROUND 41
---------------------
-API authentication success.
-Referee: 011
-r: 0, s: 1, t: 1
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00111 | 
-Probability | 1.000 | 
-
-Alice: 1
-Bob: 1
-Charlie: 1
-r∨s∨t = 0∨1∨1 = 1
-a⊕b⊕c = 1⊕1⊕1 = 1
-Round win.
-
---------------------
-ROUND 42
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
@@ -1034,12 +951,12 @@ Probability | 1.000 |
 Alice: 0
 Bob: 0
 Charlie: 0
-r∨s∨t = 0∨0∨0 = 0
+r∨s∨t = 1∨1∨0 = 1
 a⊕b⊕c = 0⊕0⊕0 = 0
-Round win.
+Round lose.
 
 --------------------
-ROUND 43
+ROUND 40
 --------------------
 API authentication success.
 Referee: 101
@@ -1048,22 +965,138 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00110 | 
+State       | 00010 | 
 Probability | 1.000 | 
 
 Alice: 0
 Bob: 1
-Charlie: 1
+Charlie: 0
 r∨s∨t = 1∨0∨1 = 1
-a⊕b⊕c = 0⊕1⊕1 = 0
-Round lose.
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 41
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 42
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 43
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
 
 --------------------
 ROUND 44
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 45
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 46
 --------------------
 API authentication success.
 Referee: 110
@@ -1072,91 +1105,43 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
+Waiting for results...
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00010 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 1
-Charlie: 0
-r∨s∨t = 1∨1∨0 = 1
-a⊕b⊕c = 0⊕1⊕0 = 1
-Round win.
-
---------------------
-ROUND 45
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00010 | 
-Probability | 1.000 | 
-
-Alice: 0
-Bob: 1
-Charlie: 0
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 0⊕1⊕0 = 1
-Round lose.
-
---------------------
-ROUND 46
---------------------
-API authentication success.
-Referee: 000
-r: 0, s: 0, t: 0
-Waiting for results...
-Waiting for results...
-Waiting for results...
-Waiting for results...
-
----------------------
-RESULTS: 
----------------------
-State       | 00101 | 
+State       | 00001 | 
 Probability | 1.000 | 
 
 Alice: 1
 Bob: 0
-Charlie: 1
-r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 1⊕0⊕1 = 0
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
 Round win.
 
 --------------------
 ROUND 47
 --------------------
 API authentication success.
-Referee: 101
-r: 1, s: 0, t: 1
+Referee: 000
+r: 0, s: 0, t: 0
 Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
+Waiting for results...
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00110 | 
+State       | 00011 | 
 Probability | 1.000 | 
 
-Alice: 0
+Alice: 1
 Bob: 1
-Charlie: 1
-r∨s∨t = 1∨0∨1 = 1
-a⊕b⊕c = 0⊕1⊕1 = 0
-Round lose.
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
 
 --------------------
 ROUND 48
@@ -1168,7 +1153,7 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
+Waiting for results...
 ---------------------
 RESULTS: 
 ---------------------
@@ -1192,18 +1177,18 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
+Waiting for results...
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00000 | 
+State       | 00011 | 
 Probability | 1.000 | 
 
-Alice: 0
-Bob: 0
+Alice: 1
+Bob: 1
 Charlie: 0
 r∨s∨t = 0∨0∨0 = 0
-a⊕b⊕c = 0⊕0⊕0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
 Round win.
 
 --------------------
@@ -1217,25 +1202,24 @@ Waiting for results...
 Waiting for results...
 Waiting for results...
 Waiting for results...
-
 ---------------------
 RESULTS: 
 ---------------------
-State       | 00111 | 
+State       | 00110 | 
 Probability | 1.000 | 
 
-Alice: 1
+Alice: 0
 Bob: 1
 Charlie: 1
 r∨s∨t = 1∨0∨1 = 1
-a⊕b⊕c = 1⊕1⊕1 = 1
-Round win.
+a⊕b⊕c = 0⊕1⊕1 = 0
+Round lose.
 
 
 --------------------
 FINAL RESULTS
 --------------------
 Rounds: 50
-Wins:  38
-Losses: 12
-P(win): 0.76
+Wins:  40
+Losses: 10
+P(win): 0.8
