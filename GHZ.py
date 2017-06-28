@@ -7,7 +7,7 @@ Created on Jun 26, 2017
 from random import choice
 from IBMQuantumExperience import IBMQuantumExperience 
 
-API_TOKEN = 'ae62fe37579104f45f6d8f3b02a86b7f3de4a3ec864980c041268859060d90c30e3e30ff695536567f6a52c991d553dc04e5625cf4529bead5946a059525efa7'
+API_TOKEN = 'a70970cd8b1d1896845f9249d2cf9ff092daec8f66e0220d775f84f08b99beff81709224c8a6ba52ee3b31c77e2dfe621317d709f656e1755911be718ca802e0'
 XOR = '⊕'
 OR = '∨'
 
@@ -44,6 +44,7 @@ def print_results(exp):
     print("---------------------")
     states = "State       | "
     probabilities = "Probability | "
+
     for i in range(len(exp['result']['measure']['labels'])):
         state = exp['result']['measure']['labels'][i]
         probability = exp['result']['measure']['values'][i]
@@ -54,6 +55,7 @@ def print_results(exp):
     print(states)
     print(probabilities)
     print()
+    
     return state
 
 def classical_GHZ():
@@ -118,7 +120,7 @@ def quantum_GHZ(device):
         
     # The players measures their qubits in the standard basis and returns the answer to the referee.
     exp = api.run_experiment(qasm, device, 1)
-
+    
     state = print_results(exp)
     state = state[2::]
     
@@ -192,5 +194,6 @@ def quantum_game(rounds, device):
     print("Losses: " + str(rounds - wins))
     print("P(win): " + str(wins / rounds))
     
-classical_game(50)
+# classical_game(50)
 # quantum_game(50, 'simulator')
+# quantum_game(50, 'real')
