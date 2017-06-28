@@ -47,9 +47,19 @@ Quantum Strategy
 ----------------------------
 
 There exists a quantum winning strategy in which Alice, Bob and Charlie share a GHZ state, |Ψ>abc = 1/√2(|000>abc + |111>abc).
+              ┌───┐                      ┌───┐
+|0> ----------│ H │-----●-----●----------│ M │-----> |a>    
+              └───┘     |     |          └───┘  
+                        |     |          ┌───┐
+|0> -------------------(+)----|----------│ M │-----> |b>
+                              |          └───┘
+                              |          ┌───┐
+|0> -------------------------(+)---------│ M │-----> |c>
+                                         └───┘
 
 We consider the following strategy, which is performed by each of the players: On receiving input 0,
 the player measures in the σx-basis and on receiving input 1, the player measures in the σy-basis.
+For example, the circuit for the given values of r, s, t = 1, 1, 0 would be:
 
 Note that at least one of the players will receive a zero input bit. Without loss of generality, we can take this to be Charlie,
 i.e. c = 0. The following tables display all possible post-measurement results based on the inputs r s t.
