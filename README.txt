@@ -1,7 +1,7 @@
 The GHZ game
 
 In this game, Alice, Bob and Charlie receive input bits r, s and t, with the promise that
-r ⊕ s⊕ t = 0. Their goal is to output bits a, b and c, respectively, such that
+r ⊕ s ⊕ t = 0. Their goal is to output bits a, b and c, respectively, such that
 a ⊕ b ⊕ c = r ∨ s ∨ t.
 
 Consider the following game, where there are three players: Alice, Bob, and Charlie. 
@@ -47,22 +47,36 @@ Quantum Strategy
 ----------------------------
 
 There exists a quantum winning strategy in which Alice, Bob and Charlie share a GHZ state, |Ψ>abc = 1/√2(|000>abc + |111>abc).
-              ┌───┐                      ┌───┐
-|0> ----------│ H │-----●-----●----------│ M │-----> |a>    
-              └───┘     |     |          └───┘  
-                        |     |          ┌───┐
-|0> -------------------(+)----|----------│ M │-----> |b>
-                              |          └───┘
-                              |          ┌───┐
-|0> -------------------------(+)---------│ M │-----> |c>
-                                         └───┘
+
+              ┌───┐                                       ┌───┐
+|0> ----------│ H │-----●-----●---------------------------│ M │-----> |a>    
+              └───┘     |     |                           └───┘  
+                        |     |                           ┌───┐
+|0> -------------------(+)----|---------------------------│ M │-----> |b>
+                              |                           └───┘
+                              |                           ┌───┐
+|0> -------------------------(+)--------------------------│ M │-----> |c>
+                                                          └───┘
 
 We consider the following strategy, which is performed by each of the players: On receiving input 0,
 the player measures in the σx-basis and on receiving input 1, the player measures in the σy-basis.
-For example, the circuit for the given values of r, s, t = 1, 1, 0 would be:
+For example, the circuit for the given values of r, s, t = 0, 1, 1 would be:
 
-Note that at least one of the players will receive a zero input bit. Without loss of generality, we can take this to be Charlie,
-i.e. c = 0. The following tables display all possible post-measurement results based on the inputs r s t.
+              ┌───┐                      ┌───┐            ┌───┐
+|0> ----------│ H │-----●-----●----------│ H │------------│ M │-----> |a>    
+              └───┘     |     |          └───┘            └───┘
+                        |     |          ┌───┐  ┌───┐     ┌───┐
+|0> -------------------(+)----|----------│Sdg│--│ H │-----│ M │-----> |b>
+                              |          └───┘  └───┘     └───┘
+                              |          ┌───┐  ┌───┐     ┌───┐
+|0> -------------------------(+)---------│Sdg│--│ H │-----│ M │-----> |c>
+                                         └───┘  └───┘     └───┘
+                                         
+Note:   σx-basis = H
+        σy-basis = S† ⊗ H
+
+Note that at least one of the players will receive a zero input bit. Without loss of generality, we can take this to be Alice,
+i.e. a = 0. The following tables display all possible post-measurement results based on the inputs r s t.
 
 Full Results Table
 ---------------------------------
@@ -72,7 +86,7 @@ r s t | r or s or t | a⊕b⊕c
       |             | 1⊕1⊕0 = 0
       |	            | 0⊕0⊕0 = 0
 ---------------------------------
-1 1 0 |      1      | 1⊕1⊕1 = 1 
+0 1 1 |      1      | 1⊕1⊕1 = 1 
       |             | 1⊕0⊕0 = 1 
       |             | 0⊕1⊕0 = 1 
       |             | 0⊕0⊕1 = 1 
@@ -83,7 +97,7 @@ r s t | r or s or t | a  b⊕c | a⊕b⊕c
 0 0 0 |	     0	    | 0   0  |	 0
       |	     	    | 1   1  |	 0
 ---------------------------------------
-1 1 0 |	     1	    | 0   1  |	 1
+0 1 1 |	     1	    | 0   1  |	 1
       |	     	    | 1   0  |	 1
       
 As the tables communicate, the players win the game with 100% success.
