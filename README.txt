@@ -1,5 +1,9 @@
 The GHZ game
 
+In this game, Alice, Bob and Charlie receive input bits r, s and t, with the promise that
+r ⊕ s⊕ t = 0. Their goal is to output bits a, b and c, respectively, such that
+a ⊕ b ⊕ c = r ∨ s ∨ t.
+
 Consider the following game, where there are three players: Alice, Bob, and Charlie. 
 
 Step 1. The referee chooses a three bit string r s t uniformly from the set {000, 011, 101, 110}
@@ -35,17 +39,25 @@ Adding the four equations modulo 2 gives 0 = 1; a contradiction. This means it i
 for a deterministic strategy to win every time, so the probability of winning can be at most 3/4
 (because at least one of the four question sets will be answered incorrectly). 
 
-It is easy to devise a strategy that wins 3/4 of the time (a0 = a1 = b0 = b1 = c0 = c1 = 1, for instance), and so the
+Clearly we can achieve 75% winning probability by setting a ≡ b ≡ c ≡ 1, and so the
 maximum probability of winning is 3/4.
 
 ----------------------------
 Quantum Strategy
 ----------------------------
 
+There exists a quantum winning strategy in which Alice, Bob and Charlie share a GHZ state, |Ψ>abc = 1/√2(|000>abc + |111>abc).
+
+We consider the following strategy, which is performed by each of the players: On receiving input 0,
+the player measures in the σx-basis and on receiving input 1, the player measures in the σy-basis.
+
+Note that at least one of the players will receive a zero input bit. Without loss of generality, we can take this to be Charlie,
+i.e. c = 0. The following tables display all possible post-measurement results based on the inputs r s t.
+
 Full Results Table
 ---------------------------------
-x y z | x or y or z | a⊕b⊕c 
-0 0 0 |   0         | 0⊕1⊕1 = 0
+r s t | r or s or t | a⊕b⊕c 
+0 0 0 |      0      | 0⊕1⊕1 = 0
       |             | 1⊕0⊕1 = 0
       |             | 1⊕1⊕0 = 0
       |	            | 0⊕0⊕0 = 0
@@ -57,9 +69,11 @@ x y z | x or y or z | a⊕b⊕c
 
 Condensed Results Table
 ---------------------------------------
-x y z | x or y or z | a  b⊕c | a⊕b⊕c
+r s t | r or s or t | a  b⊕c | a⊕b⊕c
 0 0 0 |	     0	    | 0   0  |	 0
       |	     	    | 1   1  |	 0
 ---------------------------------------
 1 1 0 |	     1	    | 0   1  |	 1
       |	     	    | 1   0  |	 1
+      
+As the tables communicate, the players win the game with 100% success.
