@@ -1,0 +1,1210 @@
+--------------------
+ROUND 1
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 2
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 3
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 4
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 5
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 6
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 7
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 8
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 9
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 10
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 11
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 12
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 13
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 14
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 15
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 16
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 17
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 18
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 19
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 20
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 21
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 22
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 23
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 24
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 25
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 26
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 27
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 28
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 29
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 30
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 31
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 32
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 33
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 34
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 35
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 36
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 37
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 38
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 39
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 40
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 41
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 42
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 43
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 44
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 45
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 46
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 47
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 48
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 49
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 50
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 51
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 52
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 53
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 54
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 55
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 56
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 57
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 58
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 59
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 60
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 61
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 62
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 63
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 64
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 65
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 66
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 67
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 68
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 69
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 70
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 71
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 72
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 73
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 74
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 75
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 76
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 77
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 78
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 79
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 80
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 81
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 82
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 83
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 84
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 85
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 86
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 87
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 88
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 89
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 90
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 91
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 92
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 93
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 94
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 95
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 96
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 97
+--------------------
+Referee: 000
+r: 0, s: 0, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round lose.
+--------------------
+ROUND 98
+--------------------
+Referee: 011
+r: 0, s: 1, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 99
+--------------------
+Referee: 110
+r: 1, s: 1, t: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+--------------------
+ROUND 100
+--------------------
+Referee: 101
+r: 1, s: 0, t: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+File class_results.txt has been created.
+
+--------------------
+FINAL RESULTS
+--------------------
+Rounds: 100
+Wins:  73
+Losses: 27
+P(win): 0.73
