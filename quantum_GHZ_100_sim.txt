@@ -1,0 +1,1910 @@
+--------------------
+ROUND 1
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 2
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 3
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 4
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 5
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 6
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 7
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 8
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 9
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 10
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 11
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 12
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 13
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 14
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 15
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 16
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 0⊕1⊕1 = 0
+Round win.
+
+--------------------
+ROUND 17
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 18
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 19
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 20
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 21
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 22
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 23
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 24
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 25
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 26
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 27
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 28
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 29
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 30
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 31
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 32
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 33
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 34
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 35
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 36
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 37
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 38
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 39
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 40
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 41
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 42
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 43
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 44
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 45
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 46
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 47
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 48
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 49
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 50
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 51
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 0⊕1⊕1 = 0
+Round win.
+
+--------------------
+ROUND 52
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 53
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 54
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 55
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 56
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 57
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 58
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 59
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 60
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 61
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 62
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 63
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 64
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 65
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 0⊕0⊕0 = 0
+Round win.
+
+--------------------
+ROUND 66
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 67
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 68
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 69
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 70
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 71
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 72
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 73
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 74
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 75
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 76
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 77
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 78
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 79
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 80
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 81
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 82
+--------------------
+API authentication success.
+Referee: 101
+r: 1, s: 0, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 1
+r∨s∨t = 1∨0∨1 = 1
+a⊕b⊕c = 1⊕1⊕1 = 1
+Round win.
+
+--------------------
+ROUND 83
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 84
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 0⊕1⊕1 = 0
+Round win.
+
+--------------------
+ROUND 85
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 86
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 87
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 1⊕0⊕0 = 1
+Round win.
+
+--------------------
+ROUND 88
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 89
+--------------------
+API authentication success.
+Referee: 110
+r: 1, s: 1, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 1∨1∨0 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 90
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 0⊕0⊕0 = 0
+Round win.
+
+--------------------
+ROUND 91
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 92
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 93
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 94
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕1⊕0 = 1
+Round win.
+
+--------------------
+ROUND 95
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 96
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕0⊕1 = 0
+Round win.
+
+--------------------
+ROUND 97
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 98
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+--------------------
+ROUND 99
+--------------------
+API authentication success.
+Referee: 011
+r: 0, s: 1, t: 1
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Alice: 0
+Bob: 0
+Charlie: 1
+r∨s∨t = 0∨1∨1 = 1
+a⊕b⊕c = 0⊕0⊕1 = 1
+Round win.
+
+--------------------
+ROUND 100
+--------------------
+API authentication success.
+Referee: 000
+r: 0, s: 0, t: 0
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Alice: 1
+Bob: 1
+Charlie: 0
+r∨s∨t = 0∨0∨0 = 0
+a⊕b⊕c = 1⊕1⊕0 = 0
+Round win.
+
+
+File sim_results.txt has been created.
+
+--------------------
+FINAL RESULTS
+--------------------
+Rounds: 100
+Wins:  100
+Losses: 0
+P(win): 1.0
