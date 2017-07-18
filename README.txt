@@ -101,3 +101,55 @@ r s t | r or s or t | a  b⊕c | a⊕b⊕c
       |	     	    | 1   0  |	 1
       
 As the tables communicate, the players win the game with 100% success.
+
+----------------------------
+Results: Classical Strategy
+----------------------------
+n = 100
+μ = 0.73
+
+----------------------------
+Results: Quantum Strategy
+----------------------------
+n = 100
+μ = 0.81
+
+----------------------------
+Statistical Analysis
+----------------------------
+
+Comparing computed Quantum Strategy against ideal Classical strategy:
+
+Hₒ: μ = 0.75
+Hₐ: μ > 0.75
+
+n = 100
+df = 100 - 1 = 99
+σ = 0.39428
+
+t = (x̄ - μₒ) / (σ / √n)
+  = (0.81 - 0.75) / (0.39428 / √100)
+  = 1.5217
+
+p-value = 0.065636
+∴ The result is significant at p < 0.10
+∴ The result is not significant at p < 0.05
+
+Comparing computed Quantum Strategy against computed Classical strategy:
+
+Hₒ: μ = 0.73
+Hₐ: μ > 0.73
+
+n = 100
+df = 100 - 1 = 99
+σ = 0.39428
+
+t = (x̄ - μₒ) / (σ / √n)
+  = (0.81 - 0.73) / (0.39428 / √100)
+  = 2.0290
+
+p-value = 0.022571
+∴ The result is significant at p < 0.10
+∴ The result is significant at p < 0.05
+
+
