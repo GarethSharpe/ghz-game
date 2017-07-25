@@ -7,7 +7,7 @@ Created on Jun 26, 2017
 from random import choice
 from IBMQuantumExperience import IBMQuantumExperience 
 
-API_TOKEN = 'a70970cd8b1d1896845f9249d2cf9ff092daec8f66e0220d775f84f08b99beff81709224c8a6ba52ee3b31c77e2dfe621317d709f656e1755911be718ca802e0'
+API_TOKEN = '5b31c59ff4a641a3a645cb307580d10d7cebaad6577cccf4f85c882d21343053cff1b6d91a3616a9eb5ed5ffa57b55ad63f6edb278134855180603ee85830b57'
 XOR = '⊕'
 OR = '∨'
 
@@ -147,12 +147,16 @@ def get_result(a, b, c, r, s, t):
     abc = xor(int(a), int(b), int(c))
     print("r∨s∨t = " + r + OR + s + OR + t + ' = ' + str(rst))
     print("a⊕b⊕c = " + a + XOR + b + XOR + c + ' = ' + str(abc))
-    return rst == abc
+    return int(rst == abc)
 
 def xor(a, b, c):
     return int(((a + b + c) % 2) == 1)
 
-def classical_game(rounds):
+def classical_game(rounds, file_name=None):
+    
+    if file_name:
+        file = open(file_name, 'w')
+        file.write("round, result, cumulative, average\n")  
     
     wins = 0
     
@@ -161,8 +165,18 @@ def classical_game(rounds):
         print("--------------------")
         print("ROUND " + str(i))
         print("--------------------")
-        wins += classical_GHZ()
+        result = classical_GHZ()
+        wins += result
+        
+        if file_name:
+            file.write('{},{},{},{}\n'.format(i, result, wins, str(wins / i)))
+    
         i += 1
+    
+    if file_name:
+        print()
+        print("File " + file_name + " has been created.")
+        file.close()
     
     print()
     print("--------------------")
@@ -173,7 +187,11 @@ def classical_game(rounds):
     print("Losses: " + str(rounds - wins))
     print("P(win): " + str(wins / rounds))
 
-def quantum_game(rounds, device):
+def quantum_game(rounds, device, file_name=None):
+    
+    if file_name:
+        file = open(file_name, 'w')
+        file.write("round, result, cumulative, average\n")  
     
     wins = 0
     
@@ -182,9 +200,19 @@ def quantum_game(rounds, device):
         print("--------------------")
         print("ROUND " + str(i))
         print("--------------------")
-        wins += quantum_GHZ(device)
+        result = quantum_GHZ(device)
+        wins += result
+        
+        if file_name:
+            file.write('{},{},{},{}\n'.format(i, result, wins, str(wins / i)))
+            
         i += 1
     
+    if file_name:
+        print()
+        print("File " + file_name + " has been created.")
+        file.close()
+        
     print()
     print("--------------------")
     print("FINAL RESULTS")
@@ -193,7 +221,15 @@ def quantum_game(rounds, device):
     print("Wins: ", str(wins))
     print("Losses: " + str(rounds - wins))
     print("P(win): " + str(wins / rounds))
-    
-# classical_game(50)
+
+''' Classical Games '''
+# classical_game(100)
+# classical_game(100, "class_results.txt")
+
+''' Simulated Quantum Games '''
 # quantum_game(50, 'simulator')
-# quantum_game(50, 'real')
+# quantum_game(100, 'simulator', "sim_results.txt")
+
+''' Computed Quantum Games '''
+# quantum_game(100, 'real')
+quantum_game(100, 'real', "comp_results.txt")
