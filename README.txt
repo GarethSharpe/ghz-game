@@ -118,6 +118,23 @@ n = 100
 Statistical Analysis
 ----------------------------
 
+A one sample t-test of the results derived from the quantum strategy provided
+the following output in R:
+
+        One Sample t-test
+
+data:  result[101:200]
+t = 20.544, df = 99, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.7317668 0.8882332
+sample estimates:
+mean of x 
+     0.81 
+     
+We can be 95% confident that the true mean of the quantum strategy lies within
+(0.73, 0.89) at a p-value < 0.0001.
+
 A two sided t-test procedure produced the following output in R:
         
         Welch Two Sample t-test
