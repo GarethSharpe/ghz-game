@@ -118,38 +118,6 @@ n = 100
 Statistical Analysis
 ----------------------------
 
-Comparing computed Quantum Strategy against ideal Classical strategy:
-
-Hₒ: μ = 0.75
-Hₐ: μ > 0.75
-
-n = 100
-df = 100 - 1 = 99
-σ = 0.050455437
-
-t = (x̄ - μₒ) / (σ / √n)
-  = (0.81 - 0.75) / (0.050455437 / √100)
-  = 11.8917
-
-p-value < 0.0001
-∴ The result is significant at p < 0.05
-
-Comparing computed Quantum Strategy against computed Classical strategy:
-
-Hₒ: μ = 0.73
-Hₐ: μ > 0.73
-
-n = 100
-df = 100 - 1 = 99
-σ = 0.050455437
-
-t = (x̄ - μₒ) / (σ / √n)
-  = (0.81 - 0.73) / (0.050455437 / √100)
-  = 15.8556
-
-p-value < 0.001
-∴ The result is significant at p < 0.05
-
 A one sided t-test procedure produced the following output in R:
         
         Welch Two Sample t-test
