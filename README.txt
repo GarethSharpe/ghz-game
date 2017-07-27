@@ -122,13 +122,13 @@ A one sided t-test procedure produced the following output in R:
         
         Welch Two Sample t-test
 
-data:  average by type
-t = -8.749, df = 134.47, p-value = 1
+data:  result by type
+t = -1.3436, df = 195.05, p-value = 0.9097
 alternative hypothesis: true difference in means is greater than 0
 95 percent confidence interval:
- -0.132775       Inf
+ -0.1784081        Inf
 sample estimates:
 mean in group class  mean in group comp 
-          0.7215219           0.8331624 
+               0.73                0.81
 
-We can be 95% confident that the true difference in means is greater than 0; (-0.13, Inf).
+We can be 95% confident that the true difference in means is greater than 0; (-0.17, Inf).
