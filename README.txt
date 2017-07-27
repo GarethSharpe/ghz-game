@@ -118,17 +118,19 @@ n = 100
 Statistical Analysis
 ----------------------------
 
-A one sided t-test procedure produced the following output in R:
+A two sided t-test procedure produced the following output in R:
         
         Welch Two Sample t-test
 
 data:  result by type
-t = -1.3436, df = 195.05, p-value = 0.9097
-alternative hypothesis: true difference in means is greater than 0
+t = -1.3436, df = 195.05, p-value = 0.1807
+alternative hypothesis: true difference in means is not equal to 0
 95 percent confidence interval:
- -0.1784081        Inf
+ -0.19743219  0.03743219
 sample estimates:
 mean in group class  mean in group comp 
-               0.73                0.81
+               0.73                0.81 
 
-We can be 95% confident that the true difference in means is greater than 0; (-0.17, Inf).
+There is little to no evidence to suggest that the true difference in means is
+not equal to 0. As such, we cannot reject the null hypothesis with a p-value 
+of 0.1807 and a 95% confidence interval of (-0.20, 0.04).
