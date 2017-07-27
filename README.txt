@@ -150,17 +150,17 @@ t = (x̄ - μₒ) / (σ / √n)
 p-value < 0.001
 ∴ The result is significant at p < 0.05
 
-A two sided t-test procedure produced the following output in R:
+A one sided t-test procedure produced the following output in R:
         
         Welch Two Sample t-test
 
 data:  average by type
-t = -8.749, df = 134.47, p-value = 7.844e-15
-alternative hypothesis: true difference in means is not equal to 0
+t = -8.749, df = 134.47, p-value = 1
+alternative hypothesis: true difference in means is greater than 0
 95 percent confidence interval:
- -0.13687750 -0.08640336
+ -0.132775       Inf
 sample estimates:
 mean in group class  mean in group comp 
           0.7215219           0.8331624 
 
-
+We can be 95% confident that the true difference in means is greater than 0; (-0.13, Inf).
