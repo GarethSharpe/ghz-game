@@ -152,4 +152,17 @@ p-value = 0.022571
 ∴ The result is significant at p < 0.10
 ∴ The result is significant at p < 0.05
 
+A two sided t-test procedure produced the following output in R:
+        
+        Welch Two Sample t-test
+
+data:  average by type
+t = -8.749, df = 134.47, p-value = 7.844e-15
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.13687750 -0.08640336
+sample estimates:
+mean in group class  mean in group comp 
+          0.7215219           0.8331624 
+
 
