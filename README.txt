@@ -129,11 +129,10 @@ df = 100 - 1 = 99
 
 t = (x̄ - μₒ) / (σ / √n)
   = (0.81 - 0.75) / (0.050455437 / √100)
-  = 1.5217
+  = 11.8917
 
-p-value = 0.065636
-∴ The result is significant at p < 0.10
-∴ The result is not significant at p < 0.05
+p-value < 0.0001
+∴ The result is significant at p < 0.05
 
 Comparing computed Quantum Strategy against computed Classical strategy:
 
@@ -146,10 +145,9 @@ df = 100 - 1 = 99
 
 t = (x̄ - μₒ) / (σ / √n)
   = (0.81 - 0.73) / (0.050455437 / √100)
-  = 2.0290
+  = 15.8556
 
-p-value = 0.022571
-∴ The result is significant at p < 0.10
+p-value < 0.001
 ∴ The result is significant at p < 0.05
 
 A two sided t-test procedure produced the following output in R:
