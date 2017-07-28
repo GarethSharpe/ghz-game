@@ -109,6 +109,12 @@ n = 100
 μ = 0.73
 
 ----------------------------
+Results: Simulated Strategy
+----------------------------
+n = 100
+μ = 1.00
+
+----------------------------
 Results: Quantum Strategy
 ----------------------------
 n = 100
@@ -136,7 +142,7 @@ Conclusion: We can be 95% certain that that true mean of the computed quantum st
 (0.73, 0.89) at a p-value < 0.0001.
 
 A proportion table between the computed classical/quantum solution produced
-the folloing output in R:
+the following output in R:
 
       type
 result class comp
@@ -144,8 +150,7 @@ result class comp
   WIN     73   81
 
 This table was used to perform Fisher's exact test was used to test whether the difference between 
-70% and 77% is statisticall significant.
-
+73% and 81% is statistically significant.
 
         Fisher's Exact Test for Count Data
 
@@ -162,7 +167,7 @@ Conclusion: Given a p-value of 0.2393, there is is little to no evidence to sugg
 of wins between the classical strategy and the quantum strategy is not equal to 1. As a result, we cannot 
 reject the null hypothesis and conclude that there is no significant difference between these proportions. 
 
-This table was also used to perform a two sided test for equality of proportions provided the following output in R:
+This table was also used to perform a two-sided test for equality of proportions provided the following output in R:
   
 		2-sample test for equality of proportions with continuity correction
 
