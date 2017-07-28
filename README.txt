@@ -130,24 +130,50 @@ alternative hypothesis: true mean is not equal to 0
  0.7317668 0.8882332
 sample estimates:
 mean of x 
-     0.81 
-     
-We can be 95% confident that the true mean of the quantum strategy lies within
+     0.81
+	 
+Conclusion: We can be 95% certain that that true mean of the computed quantum strategy lies within 
 (0.73, 0.89) at a p-value < 0.0001.
 
-A two sided t-test procedure produced the following output in R:
-        
-        Welch Two Sample t-test
+A proportion table between the computed classical/quantum solution produced
+the folloing output in R:
 
-data:  result by type
-t = -1.3436, df = 195.05, p-value = 0.1807
-alternative hypothesis: true difference in means is not equal to 0
+      type
+result class comp
+  LOSE    27   19
+  WIN     73   81
+
+This table was used to perform Fisher's exact test was used to test whether the difference between 
+70% and 77% is statisticall significant.
+
+
+        Fisher's Exact Test for Count Data
+
+data:  table(result, type)
+p-value = 0.2393
+alternative hypothesis: true odds ratio is not equal to 1
 95 percent confidence interval:
- -0.19743219  0.03743219
+ 0.7700171 3.2662699
 sample estimates:
-mean in group class  mean in group comp 
-               0.73                0.81 
+odds ratio 
+  1.573169 
+  
+Conclusion: Given a p-value of 0.2393, there is is little to no evidence to suggest that the proportions
+of wins between the classical strategy and the quantum strategy is not equal to 1. As a result, we cannot 
+reject the null hypothesis and conclude that there is no significant difference between these proportions. 
 
-There is little to no evidence to suggest that the true difference in means is
-not equal to 0. As such, we cannot reject the null hypothesis with a p-value 
-of 0.1807 and a 95% confidence interval of (-0.20, 0.04).
+This table was also used to perform a two sided test for equality of proportions provided the following output in R:
+  
+		2-sample test for equality of proportions with continuity correction
+
+data:  table(result, type)
+X-squared = 1.3834, df = 1, p-value = 0.2395
+alternative hypothesis: two.sided
+95 percent confidence interval:
+ -0.0638675  0.2897286
+sample estimates:
+   prop 1    prop 2 
+0.5869565 0.4740260 
+
+Conclusion: We can be 95% certain that the true difference between the classical proportion of won games and
+the computed quantum proportions of won games is between -6.4% and 29.0%.
