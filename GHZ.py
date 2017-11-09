@@ -1,5 +1,6 @@
 '''
 Created on Jun 26, 2017
+adapted for ibmqx4 by Marcus Edwards on November 9, 2017
 
 @author: Gareth Sharpe
 '''
@@ -7,18 +8,18 @@ Created on Jun 26, 2017
 from random import choice
 from IBMQuantumExperience import IBMQuantumExperience 
 
-API_TOKEN = '5b31c59ff4a641a3a645cb307580d10d7cebaad6577cccf4f85c882d21343053cff1b6d91a3616a9eb5ed5ffa57b55ad63f6edb278134855180603ee85830b57'
+API_TOKEN = 'a0f9090f4b9b0a7f86cb31848730654bb4dbc35aab364a7d728162c96b264752d413b88daea7303c87f12e0a719345119c0f8a880a27d73b998887664a989fce' #'5b31c59ff4a641a3a645cb307580d10d7cebaad6577cccf4f85c882d21343053cff1b6d91a3616a9eb5ed5ffa57b55ad63f6edb278134855180603ee85830b57'
 XOR = '⊕'
 OR = '∨'
 
-api = IBMQuantumExperience.IBMQuantumExperience(API_TOKEN)
+api = IBMQuantumExperience(API_TOKEN)
 
 def test_api_auth_token():
     '''
     Authentication with Quantum Experience Platform
     '''
-    api = IBMQuantumExperience.IBMQuantumExperience(API_TOKEN)
-    credential = api._check_credentials()
+    api = IBMQuantumExperience(API_TOKEN)
+    credential = api.check_credentials()
 
     return credential
 
@@ -106,17 +107,17 @@ def quantum_GHZ(device):
     print("r: " + r + ", s: " + s + ", t: " + t)
     
     # Create GHZ state
-    qasm = """include "qelib1.inc";qreg q[5];creg c[5];h q[0];cx q[0],q[1];cx q[1],q[2];barrier q[0],q[1],q[2];"""
+    qasm = """include "qelib1.inc";qreg q[5];creg c[5];h q[2];cx q[2],q[1];cx q[1],q[0];barrier q[2],q[1],q[0];"""
 
     # If the question is q = 1, then the player performs a Hadamard transform on their qubit
     if r == '1':
-        qasm += 'sdg q[0];'
+        qasm += 'sdg q[2];'
     if s == '1':
         qasm += 'sdg q[1];'
     if t == '1':
-        qasm += 'sdg q[2];'
+        qasm += 'sdg q[0];'
     
-    qasm += "h q[0];h q[1];h q[2];measure q[0] -> c[0];measure q[1] -> c[1];measure q[2] -> c[2];"
+    qasm += "h q[2];h q[1];h q[0];measure q[2] -> c[0];measure q[1] -> c[1];measure q[0] -> c[2];"
         
     # The players measures their qubits in the standard basis and returns the answer to the referee.
     exp = api.run_experiment(qasm, device, 1)
@@ -227,9 +228,9 @@ def quantum_game(rounds, device, file_name=None):
 # classical_game(100, "class_results.txt")
 
 ''' Simulated Quantum Games '''
-# quantum_game(50, 'simulator')
+quantum_game(50, 'simulator')
 # quantum_game(100, 'simulator', "sim_results.txt")
 
 ''' Computed Quantum Games '''
 # quantum_game(100, 'real')
-quantum_game(100, 'real', "comp_results.txt")
+# quantum_game(100, 'real', "comp_results.txt")
